@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
    env:  
-   REPO_URL: "gaozx812/gaozx812.github.io"  # 改为你自己的仓库  
+   REPO_URL: "Gaozx1/Gaozx1.github.io"  # 改为你自己的仓库  
    BUILD_PATH: ".vitepress/dist"  # 构建输出路径，不要改  
    CUSTOM_DOMAIN: "blog.24811213.xyz"  # 改为你自己的自定义域名
 
